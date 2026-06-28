@@ -71,7 +71,7 @@ Human-Action-Detection/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Human-Action-Detection.git
+git clone https://github.com/chandutummalapalli4/Human-Action-Detection.git
 ```
 
 Move into the project directory
